@@ -245,6 +245,16 @@ This project significantly improved my debugging and troubleshooting skills.
 
 ---
 
+## 📸 Project Demo
+
+### Kubernetes Deployment
+
+![Deployment](images/kubernetes-deployment.png)
+
+### Application Output
+
+![Output](images/output.png)
+
 ## 👨‍💻 Author
 
 **Mohammad Sufyaan**
